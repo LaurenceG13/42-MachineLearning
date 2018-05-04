@@ -1,6 +1,6 @@
 ## 42-MachineLearning
 
-Created by 42AI, [42 School](https://www.42.fr) Artificial Intelligence student association, these [Machine Learning workshops] (https://github.com/42-AI/ateliers-ml) are organized by and for students in order for them to grasp core theoretical concepts and put them into practice using Python language.
+Created by 42AI, [42 School](https://www.42.fr) Artificial Intelligence student association, these [Machine Learning workshops](https://github.com/42-AI/ateliers-ml) are organized by and for students in order for them to grasp core theoretical concepts and put them into practice using Python language.
 
 ### Workshops
 
