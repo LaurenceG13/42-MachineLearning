@@ -7,7 +7,7 @@ Created by 42AI, [42 School](https://www.42.fr) Artificial Intelligence student 
 <table width="100%">
   <thead>
   <tr>
-    <td width="40%" height="60px" align="center" cellpadding="0">
+    <td width="5%" height="60px" align="center" cellpadding="0">
       <strong>Week</strong>
     </td>
     <td width="10%" align="center" cellpadding="0">
