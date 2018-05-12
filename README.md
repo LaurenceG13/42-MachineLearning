@@ -22,11 +22,11 @@ Created by 42AI, [42 School](https://www.42.fr) Artificial Intelligence student 
     </tr>
     <tr>
       <td valign="top" height="30px">2</td>
-      <td valign="top" align="center">Linear regression with one variable</td>
+      <td valign="top" align="center">Linear regression</td>
     </tr>
     <tr>
       <td valign="top" height="30px">3</td>
-      <td valign="top" align="center">Linear regression with multiple variables</td>
+      <td valign="top" align="center">Logistic regression</td>
     </tr>
     <tr>
       <td valign="top" height="30px">4</td>
