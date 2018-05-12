@@ -50,15 +50,15 @@ Created by 42AI, [42 School](https://www.42.fr) Artificial Intelligence student 
     </tr>
     <tr>
       <td valign="top" height="30px">9</td>
-      <td valign="top" align="center">Reinforcement learning</td>
+      <td valign="top" align="center">Reinforcement learning (intro)</td>
     </tr>
     <tr>
       <td valign="top" height="30px">10</td>
-      <td valign="top" align="center">Neural networks (1)</td>
+      <td valign="top" align="center">Reinforcement learning (policy gradients)</td>
     </tr>
     <tr>
       <td valign="top" height="30px">11</td>
-      <td valign="top" align="center">Neural networks (2)</td>
+      <td valign="top" align="center">Neural networks (intro)</td>
     </tr>
     <tr>
       <td valign="top" height="30px">12</td>
