@@ -54,7 +54,7 @@ Created by 42AI, [42 School](https://www.42.fr) Artificial Intelligence student 
     </tr>
     <tr>
       <td valign="top" height="30px">10</td>
-      <td valign="top" align="center">Reinforcement learning (policy gradients)</td>
+      <td valign="top" align="center">Reinforcement learning (Q learning)</td>
     </tr>
     <tr>
       <td valign="top" height="30px">11</td>
